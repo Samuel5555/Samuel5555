@@ -3,11 +3,11 @@
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		margin: 0 auto 30px;
+		margin: 0 auto 100px;
 	}
 
 	.logo {
-		width: 70px;
+		width: 100px;
 	}
 
 	.logo img {
