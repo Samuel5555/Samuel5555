@@ -70,8 +70,6 @@
 	<!-- Header -->
 	<Header />
 
-	<!--  Logos -->
-	<Logos />
 
 	<!-- Handles The creation of notes -->
 	<CreateNote />
@@ -83,4 +81,7 @@
 
 	<!-- Handles the Modal For updating note content -->
 	<UpdateModal {notedata} />
+
+<!--  Logos -->
+	<Logos />
 </main>
