@@ -149,7 +149,7 @@
 		<input
 			class="title"
 			type="text"
-			placeholder="Title"
+			placeholder="Your name"
 			name="title"
 			bind:value={title}
 			on:focus={showTitle}
