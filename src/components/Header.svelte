@@ -4,8 +4,6 @@
 		top: 10px;
 		font-size: 20px;
 		color: rgba(0, 0, 0, 0.5);
-padding-bottom: 10px;
-margin-bottom: 5px;
 	}
 
 	button {
@@ -43,10 +41,10 @@ margin-bottom: 5px;
 </style>
 
 <h1 class="title">
-	Testimonials of David Ibiyeomie.
+	Testimonials of David Ibiyeomie.</h1>
 	<br />
-	David Ibiyeomie has impacted lives all  over the globe. We celebrate him specially on his 59th birthday. 
+	<p>David Ibiyeomie has impacted lives all  over the globe. We celebrate him specially on his 59th birthday. 
 	If he has impacted you one way or the other, post your name and give a brief description on his Impact in your life.  
-	<br />
-    David Ibiyeomie's impact is not worth shutting up, the world must hear and see that there is a man whom indeed is love-personified. 
-</h1>
+	</p><br />
+ <a>   David Ibiyeomie's impact is not worth shutting up, the world must hear and see that there is a man whom indeed is love-personified. 
+</a>
