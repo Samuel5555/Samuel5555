@@ -4,6 +4,7 @@
 		top: 10px;
 		font-size: 20px;
 		color: rgba(0, 0, 0, 0.5);
+padding-bottom: 10px;
 	}
 
 	button {
