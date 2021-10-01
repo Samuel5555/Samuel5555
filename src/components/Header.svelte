@@ -42,9 +42,9 @@
 
 <h1 class="title">
 	Testimonials of David Ibiyeomie.</h1>
-	<br />
-	<p>David Ibiyeomie has impacted lives all  over the globe. We celebrate him specially on his 59th birthday. 
+	<a>
+	David Ibiyeomie has impacted lives all  over the globe. We celebrate him specially on his 59th birthday. 
 	If he has impacted you one way or the other, post your name and give a brief description on his Impact in your life.  
-	</p><br />
- <a>   David Ibiyeomie's impact is not worth shutting up, the world must hear and see that there is a man whom indeed is love-personified. 
+	<br />
+    David Ibiyeomie's impact is not worth shutting up, the world must hear and see that there is a man whom indeed is love-personified. 
 </a>
