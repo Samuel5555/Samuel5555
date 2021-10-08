@@ -41,7 +41,7 @@
 </style>
 
 <h1 class="title">
-	Birthday Wishes to David <br /> Celebrating a man of Excellence </h1>
+	Birthday Wishes to David Ibiyeomie <br /> Celebrating a man of Excellence </h1>
 	<a>
 	David Ibiyeomie has impacted lives all  over the globe. We celebrate him specially on his 59th birthday. 
 	Be a part of this celebration by wishing Papa a wonderful celebration and telling us little about how blessed you are by Him. 
