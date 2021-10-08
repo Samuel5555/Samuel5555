@@ -156,7 +156,7 @@
 			class:not-visible={!inputVisible} />
 
 		<textarea
-			placeholder="For Papa - greater strength, blessings..."
+			placeholder=" Papa, Happy birthday..."
 			bind:value={content}
 			name="content"
 			on:input={resizeTextArea}
